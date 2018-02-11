@@ -23,7 +23,7 @@
     <section class="jumbotron text-center">
         <div class="container">
             <h1 class="jumbotron-heading">Islamic Educare</h1>
-            <p class="lead text-muted">Komunitas sosial dan pendidikan yang bertujuan membentuk dan mengembangkan<br>generasi muda muslim Indonesia yang
+            <p class="lead">Komunitas sosial dan pendidikan yang bertujuan membentuk dan mengembangkan<br>generasi muda muslim Indonesia yang
                 profesional, beriman, dan berakhlak mulia.</p>
         </div>
     </section>
@@ -36,6 +36,7 @@
             </div>
         </div>
     </section>
+    <br><br><br>
     <hr>
     <p class="text-center">Islamic Educare - Jalan Sekeloa Timur No. 38</p>
     <?php wp_footer(); ?>
