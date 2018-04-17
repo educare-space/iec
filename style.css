@@ -6,16 +6,5 @@ Author URI: https://siriokun.com
 Description: Islamic Educare theme
 Version: 1.0.0
 Text Domain: iec
+Template: storefront
 */
-.jumbotron {
-    background-color: #dae6ff;
-    border-top: 3px solid #00539b;
-    border-radius: 0;
-    color: #75a0fd;
-}
-
-.jumbotron-heading {
-    color: #00539b;
-    text-transform: uppercase;
-    margin: 3rem 0;
-}
